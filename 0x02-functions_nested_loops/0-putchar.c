@@ -4,9 +4,12 @@
  *main prints_putchar
  */
 int main(void)
+/**
+ *main
+ */
 {
 /**
- *my_function - This is a description 
+ * my_functio
  */
 	putchar('_');
 	putchar('p');
