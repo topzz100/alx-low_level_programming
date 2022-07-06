@@ -5,6 +5,9 @@
  */
 int main(void)
 {
+/**
+ *my_function - This is a description 
+ */
 	putchar('_');
 	putchar('p');
 	putchar('u');
